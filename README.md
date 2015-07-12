@@ -1,4 +1,4 @@
-docker_nginb
-============
+# Equator
 
-nginb docker build
+dev environment by docker build.
+
